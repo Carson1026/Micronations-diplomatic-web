@@ -143,10 +143,10 @@ plugins:
         zoom: true
         depth: 1
         scale: 1.1
-        repelForce: 0.5
-        centerForce: 0.4
-        linkDistance: 30
-        fontSize: 0.6
+        repelForce: 1.5
+        centerForce: 0.2
+        linkDistance: 80
+        fontSize: 0.4
         opacityScale: 1
         removeTags: []
         showTags: false
