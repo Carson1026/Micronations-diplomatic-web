@@ -154,8 +154,8 @@ plugins:
       globalGraph:
         drag: true
         zoom: true
-        depth: 2
-        scale: 0.9
+        depth: -1
+        scale: 0.6
         repelForce: 1.2
         centerForce: 0.4
         linkDistance: 40
