@@ -156,9 +156,9 @@ plugins:
         zoom: true
         depth: -1
         scale: 0.6
-        repelForce: 2.2
+        repelForce: 3.0
         centerForce: 0.4
-        linkDistance: 40
+        linkDistance: 60
         fontSize: 0.5
         opacityScale: 1
         removeTags: []
