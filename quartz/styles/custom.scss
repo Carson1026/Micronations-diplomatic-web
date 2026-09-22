@@ -1,27 +1,3 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-
-// --- Homepage: enlarge graph to dominate the page ---
-body[data-slug="index"] .sidebar.right {
-  width: 55%;
-}
-body[data-slug="index"] .sidebar.right .graph-outer,
-body[data-slug="index"] .sidebar.right svg {
-  height: 85vh !important;
-  min-height: 600px;
-}
-
-// --- Homepage: fix graph sizing at the grid level ---
-body[data-slug="index"] .page > #quartz-body {
-  grid-template-columns: 320px auto 55% !important;
-}
-body[data-slug="index"] .sidebar.right .graph-outer {
-  height: 70vh !important;
-  min-height: 500px;
-  aspect-ratio: unset;
-}
-body[data-slug="index"] .sidebar.right .graph-outer svg {
-  width: 100% !important;
-  height: 100% !important;
-}
