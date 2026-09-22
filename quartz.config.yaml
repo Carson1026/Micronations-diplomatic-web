@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: carson1026.github.io/Micronations-diplomatic-web
   ignorePatterns:
     - private
     - templates
@@ -309,6 +309,7 @@ layout:
         right: []
     canvas: {}
     bases: {}
+
 
 
 
