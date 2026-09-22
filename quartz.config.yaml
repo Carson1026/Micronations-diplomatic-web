@@ -165,7 +165,7 @@ plugins:
         showTags: false
         focusOnHover: true
     layout:
-      position: beforebody
+      position: beforeBody
       priority: 30
   - source: "@quartz-community/search"
     enabled: true
