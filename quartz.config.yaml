@@ -155,11 +155,11 @@ plugins:
         drag: true
         zoom: true
         depth: -1
-        scale: 0.6
-        repelForce: 3.0
-        centerForce: 0.4
-        linkDistance: 60
-        fontSize: 0.5
+        scale: 0.4
+        repelForce: 6.0
+        centerForce: 0.2
+        linkDistance: 100
+        fontSize: 0.35
         opacityScale: 1
         removeTags: []
         showTags: false
