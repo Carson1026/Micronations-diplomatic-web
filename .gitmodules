@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/Carson1026/micronations-diplo-web-directory.git
